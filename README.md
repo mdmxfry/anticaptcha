@@ -1,5 +1,7 @@
 # speech2text
-Speech2Text for GeeTest captcha
+Speech2Text for GeeTest/Google captcha
+
+_First, install requirements:_
 
 ```
 pip3 install requirements.txt
